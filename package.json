@@ -1,0 +1,13 @@
+{
+  "name": "SCSS-examples",
+  "version": "0.1.0",
+  "description": "Set of SCSS useful examples",
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  },
+  "scripts": {
+    "start": "node-sass -o css scss --output-style expanded"
+  },
+  "author": "Edward",
+  "license": "MIT"
+}
